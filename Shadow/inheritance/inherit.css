@@ -1,0 +1,19 @@
+.parent{
+    font-size: 2rem;
+    font-family: cursive;
+    color: darkred;
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    box-shadow: 4px 4px 4px slateblue;
+    
+
+}
+.child{
+    position: relative;
+    left: 70px;
+    background-color: blue;
+    width: inherit;
+    height: inherit;
+    box-shadow: 4px 4px 4px lightskyblue;
+}

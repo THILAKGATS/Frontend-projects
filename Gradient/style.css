@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+div{
+    background-image: linear-gradient(rgba(0, 0, 255, 0.365),rgba(255, 166, 0, 0.544)),url("https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    background-position: bottom;
+    height: 100vh;
+    background-attachment: fixed;
+    /* filter: blur(); */
+    /* filter: brightness(50%); */
+    /* filter: contrast(40%); */
+    /* filter: grayscale(100%); */
+    filter: saturation(70%);
+}   
