@@ -1,0 +1,39 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Righteous&family=Rubik+Bubbles&display=swap');
+
+
+
+
+.p{
+    color: blue;
+    font-family: cursive;
+    font-size: larger;
+    line-height: 100px;
+    word-spacing: 10px;
+    text-align: right;
+    text-decoration: overline;
+    
+}
+h1{
+    font-family: monospace;
+    text-decoration: underline;
+   
+}
+h2,ul{
+    color: teal;
+    font-family: cursive;
+    font-size: 100%;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    
+    
+}
+ul{
+    list-style-type: none;
+}
+div{
+    text-align:center;
+}
+section{
+    font-family: 'Righteous', 'rubik+bubble';
+}

@@ -1,0 +1,30 @@
+
+/* Display block */
+div
+{
+    background-color: aqua;
+    height: 100px;
+    
+}
+/* span{
+    background-color: greenyellow;
+    height: 100px;
+    width: 100px;
+} */
+/* Inline */
+.inline
+{
+    background-color: brown;
+    display: inline;
+    
+}
+/* inline- block */
+section{
+    background-color: burlywood;
+    display: inline-block;
+    width: 300px;
+    height:300px;
+}
+.fa-solid{
+    color: blue;
+}
